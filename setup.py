@@ -31,7 +31,7 @@ setup(
         'Programming Language :: Python :: 3',
         'Topic :: Scientific/Engineering :: Physics'],
     install_requires=[
-        'pint==0.8.1', 'numpy==1.13.0', 'cslib'],
+        'pint==0.8.1', 'numpy==1.13.3', 'cslib==0.2.0'],
     extras_require={
         'test': ['pytest']
     },
